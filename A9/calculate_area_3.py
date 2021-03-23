@@ -1,5 +1,4 @@
 import imageio
-from PIL import Image 
 from random import *
 import random
 
